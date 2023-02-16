@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python /home/intern/seungjun/commonsense/CCL/train_with_no_overlap.py --lm 'roberta-large'  --training_size 9000 --cur_task csqa --training_type FT --split_type prob --batch_size 4
