@@ -1,4 +1,4 @@
-# 🧠 Continual Commonsense Reasoning with Multi-Task Learning
+# Continual Commonsense Reasoning with Multi-Task Learning
 
 This project aims to build a robust commonsense reasoning model that can continually learn multiple tasks over time. By leveraging task-specific datasets and novel augmentation techniques, the model is trained to solve a wide range of commonsense QA tasks with improved generalization and transferability.
 
@@ -10,7 +10,7 @@ We develop a continual learning framework for commonsense reasoning that:
 - Employs various **knowledge distillation** and **sample augmentation** strategies to improve performance on future tasks.
 - Supports **bi-encoder** and **SBERT-based** methods to generate additional training samples from incorrect predictions.
 
-## 🧠 Core Features
+## Core Features
 
 - 📚 **Multi-Task Commonsense QA**  
   Trains on diverse commonsense reasoning tasks such as CSQA, SocialIQA, and more.
