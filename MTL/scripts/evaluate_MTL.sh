@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=4 python /home/intern/seungjun/commonsense/MTL/evaluate_mtl.py --lm 'roberta-large'  --training_size 9000 --batch_size 4

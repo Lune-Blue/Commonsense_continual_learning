@@ -1,1 +1,0 @@
-CUDA_VISIBLE_DEVICES=4 python /home/intern/seungjun/commonsense/CCL/train_biencoder.py --cur_task piqa --training_size 9000
